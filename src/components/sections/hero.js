@@ -69,23 +69,18 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Mahendra Dewangan, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+        Hello! I’m Mahendra Dewangan. I recently graduated with a Bachelor of Technology in Computer Science and Technology. While I specialize in frontend development, I also have experience in backend development and a strong foundation in computer science principles.
+        
       </p>
-
-
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
+        I'm currently interning at {' '} <a href="https://futurereadytalent.in/">FRT</a> {' '}, learning about {' '} <a href="https://azure.microsoft.com/en-in">Azure</a> {' '} and cloud.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://chandrikadeb7.gumroad.com"
+      href="https://mahendradew.gumroad.com"
       target="_blank"
       rel="noreferrer">
       Check out my products!

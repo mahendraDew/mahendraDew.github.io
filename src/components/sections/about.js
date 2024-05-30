@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Nextjs', 
+  'Node.js', 'Java', 'C/C++', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,32 +136,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
+            Hello! I’m Mahendra Dewangan, currently interning at {' '} <a href="https://futurereadytalent.in/">FRT</a> {' '}. I recently graduated with a Bachelor of Technology in Computer Science and Technology. I specialize in frontend development, but my experience spans both frontend and backend technologies.
             </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+            I've honed my coding skills across various programming languages and development frameworks through {' '} <a href="#projects">numerous projects</a> {' '}. This hands-on experience has fueled my passion for creating intuitive and dynamic user interfaces, as well as robust backend solutions.
             </p>
 
             <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
+            Looking ahead, I aim to leverage my comprehensive skill set to build innovative and impactful projects, pushing the boundaries of technology and delivering seamless user experiences.
             </p>
 
             <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
+            In my free time, I love building software for {' '} <a href="#projects">personal projects</a> {' '} and engaging in small DIY endeavors. I also enjoy reading books on software development and philosophical works, influenced by my background in humanism.
             </p>
 
-            <p>My skills are not limited to this list!</p>
+            <p>And also my skills are not limited to this list!</p>
           </div>
 
           <ul className="skills-list">
@@ -173,7 +163,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/profile1.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
