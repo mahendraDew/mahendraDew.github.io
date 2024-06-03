@@ -1,8 +1,8 @@
 ---
-date: '2021-04-20'
+date: '2024-06-03'
 title: 'Personal Website'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io'
-external: 'https://chandrikadeb7.github.io'
+github: 'https://github.com/mahendradew/mahendradew.github.io'
+external: 'https://mahendradew.github.io'
 tech:
   - JavaScript
   - GraphQL
