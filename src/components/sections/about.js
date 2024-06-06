@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I’m Mahendra Dewangan, currently interning at {' '} <a href="https://futurereadytalent.in/">FRT</a> {' '}. I recently graduated with a Bachelor of Technology in Computer Science and Technology. I specialize in frontend development, but my experience spans both frontend and backend technologies.
+            Hello! I’m Mahendra Dewangan, a student developer from INDIA. I recently graduated with a Bachelor of Technology in Computer Science and Technology. I specialize in frontend development, but my experience spans both frontend and backend technologies.
             </p>
 
             <p>

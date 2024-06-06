@@ -72,9 +72,7 @@ const Hero = () => {
         Hello! I’m Mahendra Dewangan. I recently graduated with a Bachelor of Technology in Computer Science and Technology. While I specialize in frontend development, I also have experience in backend development and a strong foundation in computer science principles.
         
       </p>
-      <p>
-        I'm currently interning at {' '} <a href="https://futurereadytalent.in/">FRT</a> {' '}, learning about {' '} <a href="https://azure.microsoft.com/en-in">Azure</a> {' '} and cloud.
-      </p>
+      
     </>
   );
   const five = (
