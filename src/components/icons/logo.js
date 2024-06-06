@@ -19,7 +19,7 @@ const IconLogo = () => (
         /> */}
       </g>
     </g>
-    <text x="27" y="66" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
+    <text x="23" y="66" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
       M
     </text>
   </svg>
