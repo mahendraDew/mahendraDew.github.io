@@ -3,7 +3,7 @@ date: '2024-05-30'
 title: 'Azure and Cloud Intern'
 company: 'FRT'
 location: 'Remote'
-range: 'July 2023- Present'
+range: 'July 2023 - March 2024'
 url: 'https://futurereadytalent.in'
 ---
 
