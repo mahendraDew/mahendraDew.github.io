@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://mahendradewangan.cyclic.app/" target="_blank">Version 2</a>
+  <a href="https://github.com/mahendraDew/portfolio-v1/" target="_blank">v1</a>
 </p>
 
 <div align="center">
